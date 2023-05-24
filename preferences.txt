@@ -1,0 +1,5 @@
+favorite film: The Lord Of The Rings
+favorite serial: GameOfThrones
+favorite food: Pizza
+favorite season: Winter
+country i would like to visit: USA

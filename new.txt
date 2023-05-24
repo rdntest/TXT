@@ -1,0 +1,5 @@
+firstname: Dmitry
+lastname: Romanushkov
+age: 27
+number of pets: 1
+future desired salary: 2000

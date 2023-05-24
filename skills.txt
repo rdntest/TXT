@@ -1,0 +1,13 @@
+Skills
+1) Software testing theory,
+2) Test-design techniques,
+3) Working with test documentation,
+4) Client-server architecture,
+5) JSON and XML structure,
+6) API testing via Postman,
+7) Devtools practice,
+8) Git and GitBash practice",
+9) Payload testing via Jmeter,
+10) Mobile testing,
+11) SQL basics,
+12) Python basics.

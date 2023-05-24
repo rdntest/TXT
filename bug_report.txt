@@ -1,0 +1,16 @@
+Bug report #1. 
+1) id: 1,
+2) severity: minor,
+3) priority: low,
+4) environment:
+-Windows 10 home, Chrome 112,
+-iPhone XR, IOS 16.5
+5) title: The text hasn't been translated to EN on the 'About us' page,
+6) steps to reproduce: 
+-step 1: Navigate to site.com,
+-step 2: Click menu item 'About us',
+-step 3: Select EN language,
+7) actual result: "The text has been translated to EN,
+8) expected result: The text hasn't been translated to EN,
+9) attachments: https://linktothevideo.test,
+10) author: "Poor tester"
