@@ -44,7 +44,7 @@ Skills
  13. На веб интерфейсе создать файл bug_report.txt - `Github Аккаунт в вебе` > `Add file` > `Create new file`
  14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
  15. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT.
-```JSON
+```
 Bug report #1. 
 1) id: 1,
 2) severity: minor,
